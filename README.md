@@ -67,9 +67,6 @@ java -Xmx1024M -Xms1024M -jar server.jar nogui
 | 25565| TCP      | 0.0.0.0/0     | Minecraft Access   |
 | All  | All      | 0.0.0.0/0     | Default Outbound   |
 
-## Sequence Diagram
-
-Refer to `diagrams/sequence-diagram.png`.
 
 ## Mitigation Plan
 
